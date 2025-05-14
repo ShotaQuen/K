@@ -19,10 +19,5 @@
       "style.css": "body {\n  font-family: 'Tahoma', sans-serif;\n}\n\nh1 {\n  color: #28a745;\n}",
       "script.js": "console.log('Produk Loaded');"
     }
-  },
-  "Tes": {
-    "files": {
-      "index.html": "Rwat"
-    }
   }
 }
